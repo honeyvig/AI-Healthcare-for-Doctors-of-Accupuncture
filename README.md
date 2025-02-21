@@ -1,4 +1,4 @@
-# AI-Healthcare-for-Foctors-of-Accupuncture
+# AI-Healthcare-for-Doctors-of-Accupuncture
 I am a Doctor of Neuroscience /Doctor of Acupuncture and currently working on developing a web-based application for Doctors of Acupuncture. The platform will:
 
 Take consultation notes and transcribe them into a structured medical report format.
